@@ -1,0 +1,10 @@
+header{
+  background-color: rgb(166, 221, 76);
+  position: fixed;
+  width: 100%;
+}
+
+.container{
+  display: flex;
+  justify-content: space-between;
+}
